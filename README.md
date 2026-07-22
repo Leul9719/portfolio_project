@@ -10,7 +10,7 @@ as part of my web development learning journey.
 - Contact
 
 This project was created to practice HTML structure,
-semantic elements, forms, tables, and navigation.
+semantic elements, non semantic, forms, tables, and navigation.
 
  Future Improvements
 
